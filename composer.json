@@ -1,0 +1,12 @@
+{
+    "name": "natsumi_hatakeyama/w3c-feed",
+    "authors": [
+        {
+            "name": "natsumi-hatakeyama",
+            "email": "natsumi_hatakeyama@dwango.co.jp"
+        }
+    ],
+    "require": {
+        "electrolinux/phpquery": "^0.9.6"
+    }
+}

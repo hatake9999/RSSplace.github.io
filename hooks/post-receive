@@ -1,0 +1,4 @@
+#!/bin/sh
+
+cd /hatake9999/RSSplace.github.io
+git --git-dir=.git pull
